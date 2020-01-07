@@ -6,7 +6,7 @@ It currently only has Dijkstra algorithm that gives you the shortest distance.
 
 I created a new rep for this because my other rep ```PathFinderDFSAnimation``` didnt support any other algorithm and the DFS algorithm was nothing but an animation and not the right algorithm.
 
-The app supports adding new algorithms to it, looking into the source should show you how to.
+The app supports adding new algorithms to it without heavy changes, looking into the source should show you how to.
 
 # Running
 
