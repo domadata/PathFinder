@@ -10,4 +10,4 @@ The app supports adding new algorithms to it, looking into the source should sho
 
 # Running
 
-once download go to the ```my-app``` folder and run ```npm install``` to install all the modules, once installed run ```npm start``` to run the app
+once downloaded go to the ```my-app``` folder and run ```npm install``` to install all the modules, once installed run ```npm start``` to run the app
