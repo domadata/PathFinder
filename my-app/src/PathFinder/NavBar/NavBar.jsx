@@ -22,7 +22,7 @@ export default class NavBar extends Component {
   onInput() {
     const input = document.getElementById("customRange1");
     const gridSize = input.value;
-    this.setState({ gridSize, chosenSize: !this.state.chosenSize });
+    this.setState({ gridSize });
   }
 
   setAlgorithm(chosenAlgorithm) {
