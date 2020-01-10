@@ -1,6 +1,6 @@
 # PathFinder
 
-App that gives you the shortest path / distance between A and B.
+App that gives you the shortest/longest path/distance between A and B.
 
 It currently only has Dijkstra algorithm that gives you the shortest distance.
 
