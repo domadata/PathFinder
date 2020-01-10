@@ -53,8 +53,6 @@ export default class Grid extends Component {
   }
 
   createGrid() {
-    this.setState({ grid: [] });
-
     const { gridSize } = this.props;
     const rows = [];
 
