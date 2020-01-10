@@ -21,7 +21,7 @@ const Algorithms = ["Dijkstra", AlgorithmName];
 
 ```Grid.jsx```
 
-add your Algorith name to the Visualize function, it should look like this:
+add your Algorithm name and function to the Visualize function, it should look like this:
 
 ```javascript
   Visualize(algorithm) {
